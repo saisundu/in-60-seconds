@@ -1,4 +1,4 @@
-# Let's Get Started with Functional Programming
+# Functional Programming Overview
 
 ---
 
