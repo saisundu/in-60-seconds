@@ -1,56 +1,21 @@
-# Functional Programming Principles
+## Functional Programming Principles
 ---
-## Main Programming Paradigms
+### Why Functional Programming?
+Offers an attractive method for exploiting parallelism for multicore and cloud computing.
+### Programming Paradigms
 
-* Imperative 
-* Functional 
-* Logic 
-
-
-
+* Imperative Programming
+* Functional Programming
+* Logic Programming
+Orthogonal to  it:
+* Object-Oriented Programming
 ---
-
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
-
+### Imperative Programming 
+* Modifying mutable variables
+* Using assignments
+* Using control structures like if-then-else, loops, break, continue, return
+Most informal way to define imperative style of programming is a Sequence of instrcutions 
 ---
-@title[Customize Slide Layout]
+### Sclaing Up
+* Pure imperative programming limited by the tendency to conceptualize the data structures word-by-word
 
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
----?color=#E58537
-@title[Add A Little Imagination]
-
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
-
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
-
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
-
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
