@@ -1,4 +1,5 @@
 # Functional Programming Principles
+---
 ## Functional Programming Paradigm vs Conventional Programming Paradigms
 
 
