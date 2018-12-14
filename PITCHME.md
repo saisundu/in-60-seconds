@@ -7,6 +7,7 @@ Offers an attractive method for exploiting parallelism for multicore and cloud c
 * Imperative Programming
 * Functional Programming
 * Logic Programming
+
 Orthogonal to  it:
 * Object-Oriented Programming
 ---
